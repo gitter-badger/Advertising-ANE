@@ -1,6 +1,8 @@
 Advertising Native Extension for Adobe Air
 =========
 
+[![Join the chat at https://gitter.im/digicrafts/Advertising-ANE](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/digicrafts/Advertising-ANE?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This Advertising ANE add supprt to using all major mobile system and popular adverting network with Adobe Air. Supports IOS, Android and Kindle.
 
 Brought to you by the [Indiegogo Campaign](https://www.indiegogo.com/projects/universal-advertising-air-native-extension/x/4441429).
